@@ -8,9 +8,9 @@
 
 JavaScript is powerful: we're able to take user interaction and information and use it to update the page without requiring a refresh. This week, a new startup in your city, CitiPix, is looking to create a personalized picture app that allows users to store pictures they've taken around the world and quickly access them by typing in keywords or tags associated with each photo; they have asked for your help to start building the front-end prototype. You will begin by building a web-app that will take a user's input and update the background image of the page based on that input. Once again, you have been given the starter code that includes the HTML and the CSS. Use the images in the image folder and write JavaScript to make the background image reflect user input based on the Technical Requirements  below.
 
-Student: ________________________________________
+Student: Aaron Stannard
 
-Project URL: ____________________________________
+Project URL: https://github.com/iamstannard/homework-city
 
 |                                                                                                                               |                                |                        |                          |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------------------|--------------------------|
