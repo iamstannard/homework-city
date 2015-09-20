@@ -3,15 +3,14 @@
 
 <head>
     <meta charset="utf-8">
-    <meta name="description" content="Your description goes here">
-    <meta name="keywords" content="one, two, three">
+    <meta name="description" content="CitiPix submit page">
+    <meta name="keywords" content="city, input, submit">
 
     <title>City Background</title>
 
     <!-- external CSS link -->
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
-
 </head>
 
 <body>
@@ -23,10 +22,13 @@
     </header>
     <div class="container">
         <form>
-            <input type="text" id="city-type" placeholder="Enter a city name...">
+            <input type="text" id="city-type" placeholder="Enter a city name..." autocomplete="off">
             <input type="submit" value="Update" id="submit-btn">
         </form>
     </div>
+    <!-- load JS -->
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
 </body>
 
 </html>
